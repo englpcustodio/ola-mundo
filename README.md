@@ -22,7 +22,7 @@ Num | Nome | Nota
 2 | José | 10,0
 3 | Maria | 9,0
 
-*Terminou a tabela
+*Terminou a tabela*
 
 Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript
 Olha meu programa em Python:
